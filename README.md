@@ -60,9 +60,9 @@ https://user-images.githubusercontent.com/46685308/156226849-ccce8ade-552a-49bd-
 ---
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Nivistealer](https://reporoster.com/stars/swagkarna/Nivistealer)](https://github.com/swagkarna/Nivistealer/stargazers)
+[![Stargazers repo roster for @tanm-sys/Nivistealer](https://reporoster.com/stars/tanm-sys/Nivistealer)](https://github.com/tanm-sys/Nivistealer/stargazers)
 
-[![Forkers repo roster for @swagkarna/Nivistealer](https://reporoster.com/forks/swagkarna/Nivistealer)](https://github.com/swagkarna/Nivistealer/network/members)
+[![Forkers repo roster for @tanm-sys/Nivistealer](https://reporoster.com/forks/tanm-sys/Nivistealer)](https://github.com/tanm-sys/Nivistealer/network/members)
 
 ---
      
