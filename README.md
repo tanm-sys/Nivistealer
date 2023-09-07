@@ -1,7 +1,7 @@
 <p align="center">
-      <img src="https://wallpapercave.com/uwp/uwp757693.gif" height="250px" width="300px" ></img>
+      <img src="https://media.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif" height="250px" width="300px" ></img>
       <br><br>
-      Nivistealer coded by : swagkarna
+      Nivistealer coded by : Tanmay 
  </p>
  
  ---
