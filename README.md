@@ -66,3 +66,8 @@ Nivi-Stealer is your spaceship to data wonders, loaded with powerful features:
 
 Join our cosmic league of supporters by giving a star to this repository:
 
+[![Stargazers repo roster for @tanm-sys/Nivistealer](https://reporoster.com/stars/notext/tanm-sys/Nivistealer)](https://github.com/tanm-sys/Nivistealer/stargazers)
+
+[![Forkers repo roster for @tanm-sys/Nivistealer](https://reporoster.com/forks/notext/tanm-sys/Nivistealer)](https://github.com/tanm-sys/Nivistealer/network/members)
+
+---
